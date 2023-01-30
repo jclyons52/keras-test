@@ -10,3 +10,8 @@ See installation instructions [here](https://www.varokas.com/tensorflow-on-apple
 ```
 jupyter lab
 ```
+
+## Resources
+- [Deep learning in python](https://www.manning.com/books/deep-learning-with-python-second-edition?a_aid=keras)
+- [colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+- [deep learning course](https://www.simplilearn.com/tutorials/deep-learning-tutorial)
